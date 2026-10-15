@@ -1,0 +1,7 @@
+# strategy notes repo — markdown only
+*.env
+*.pem
+*.key
+secrets/
+.DS_Store
+__pycache__/
