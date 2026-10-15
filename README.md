@@ -51,4 +51,3 @@ The refresh script rebuilds `REGISTRY.md` and creates/updates `weekly/YYYY-MM-DD
 https://github.com/algowise-ai/polymarket-strategy-notes
 
 Friend (Tai Lai / emillaii) can browse REGISTRY + weekly + books there. Local Mac Mini `docs/strategies/` remains the editable source of truth; refresh then `git push` after weekly updates.
-
