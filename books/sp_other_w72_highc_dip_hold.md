@@ -6,7 +6,7 @@
 **Config:** `config/paper_sp_other_w72_highc_dip_hold.json`  
 **Launchd:** `com.algowise.polymarket.paper-sp-other-w72-highc-dip`  
 **Bankroll / stake:** $10,000.00 / $100.00  
-**Equity (all) / PnL:** $11,005.21 / $1,005.21  
+**Equity (all) / PnL:** $10,999.06 / $999.06  
 **Started (UTC series):** 2026-10-15T04:54:13Z  
 
 ## Summary
