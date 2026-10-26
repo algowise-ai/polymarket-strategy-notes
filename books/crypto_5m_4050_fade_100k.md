@@ -6,7 +6,7 @@
 **Config:** `config/paper_crypto_5m_4050_fade_100k.json`  
 **Launchd:** `com.algowise.polymarket.paper-crypto-5m-4050-fade-100k`  
 **Bankroll / stake:** $100,000.00 / $100.00  
-**Equity (all) / PnL:** $54,007.50 / $-45,992.50  
+**Equity (all) / PnL:** $26.08 / $-99,973.92  
 **Started (UTC series):** 2026-10-13T05:28:20Z  
 
 ## Summary

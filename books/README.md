@@ -2,12 +2,12 @@
 
 Short keep-record pages for major live / paused books.
 
-- [`crypto_2m_9395_hold.md`](crypto_2m_9395_hold.md)
 - [`crypto_5m_4050.md`](crypto_5m_4050.md)
 - [`crypto_5m_4050_100k.md`](crypto_5m_4050_100k.md)
 - [`crypto_5m_4050_fade_100k.md`](crypto_5m_4050_fade_100k.md)
 - [`crypto_5m_9395_hold.md`](crypto_5m_9395_hold.md)
 - [`crypto_9395_hold.md`](crypto_9395_hold.md)
+- [`crypto_last_2m_9395_hold.md`](crypto_last_2m_9395_hold.md)
 - [`d224_momB_w24_m03lb24_hold.md`](d224_momB_w24_m03lb24_hold.md)
 - [`football_totals_2h_9799.md`](football_totals_2h_9799.md)
 - [`hermes_football_ev.md`](hermes_football_ev.md)

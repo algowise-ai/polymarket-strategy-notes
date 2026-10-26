@@ -6,7 +6,7 @@
 **Config:** `config/paper_totals_highc_dip_hold.json`  
 **Launchd:** `com.algowise.polymarket.paper-totals-highc-dip`  
 **Bankroll / stake:** $10,000.00 / $100.00  
-**Equity (all) / PnL:** $10,584.43 / $584.43  
+**Equity (all) / PnL:** $10,175.49 / $175.49  
 **Started (UTC series):** 2026-10-13T13:33:58Z  
 
 ## Summary
