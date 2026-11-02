@@ -6,7 +6,7 @@
 **Config:** `config/paper_sports_other_nearfav_dip_hold.json`  
 **Launchd:** `com.algowise.polymarket.paper-sports-other-nearfav-dip`  
 **Bankroll / stake:** $10,000.00 / $100.00  
-**Equity (all) / PnL:** $9,957.49 / $-42.51  
+**Equity (all) / PnL:** $10,093.38 / $93.38  
 **Started (UTC series):** 2026-10-14T20:15:25Z  
 
 ## Summary

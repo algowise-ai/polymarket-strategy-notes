@@ -6,7 +6,7 @@
 **Config:** `config/paper_football_totals_2h_9799.json`  
 **Launchd:** `com.algowise.polymarket.paper-football-totals-2h`  
 **Bankroll / stake:** $10,000.00 / $100.00  
-**Equity (all) / PnL:** $9,956.83 / $-43.17  
+**Equity (all) / PnL:** $10,030.27 / $30.27  
 **Started (UTC series):** 2026-10-09T13:20:54Z  
 
 ## Summary

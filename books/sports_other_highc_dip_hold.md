@@ -6,7 +6,7 @@
 **Config:** `config/paper_sports_other_highc_dip_hold.json`  
 **Launchd:** `com.algowise.polymarket.paper-sports-other-highc-dip`  
 **Bankroll / stake:** $10,000.00 / $100.00  
-**Equity (all) / PnL:** $9,969.35 / $-30.65  
+**Equity (all) / PnL:** $9,037.54 / $-962.46  
 **Started (UTC series):** 2026-10-12T04:30:48Z  
 
 ## Summary

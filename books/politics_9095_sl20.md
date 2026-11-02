@@ -6,7 +6,7 @@
 **Config:** `config/paper_politics_9095_sl20.json`  
 **Launchd:** `com.algowise.polymarket.paper-politics-9095-sl20`  
 **Bankroll / stake:** $10,000.00 / $100.00  
-**Equity (all) / PnL:** $9,851.93 / $-148.07  
+**Equity (all) / PnL:** $9,913.38 / $-86.62  
 **Started (UTC series):** 2026-10-09T13:20:54Z  
 
 ## Summary
