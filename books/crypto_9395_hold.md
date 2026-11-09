@@ -6,7 +6,7 @@
 **Config:** `config/paper_crypto_9395_hold.json`  
 **Launchd:** `com.algowise.polymarket.paper-crypto-9395`  
 **Bankroll / stake:** $10,000.00 / $100.00  
-**Equity (all) / PnL:** $5,174.67 / $-4,825.33  
+**Equity (all) / PnL:** $245.98 / $-9,754.02  
 **Started (UTC series):** 2026-10-08T07:27:25Z  
 
 ## Summary

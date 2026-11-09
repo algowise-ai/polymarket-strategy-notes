@@ -6,7 +6,7 @@
 **Config:** `config/paper_moneyline_late24_highc_dip_hold.json`  
 **Launchd:** `com.algowise.polymarket.paper-moneyline-late24-highc-dip`  
 **Bankroll / stake:** $10,000.00 / $100.00  
-**Equity (all) / PnL:** $10,518.29 / $518.29  
+**Equity (all) / PnL:** $11,283.13 / $1,283.13  
 **Started (UTC series):** 2026-10-14T20:15:24Z  
 
 ## Summary
